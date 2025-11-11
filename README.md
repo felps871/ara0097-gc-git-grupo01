@@ -1,0 +1,20 @@
+# Projeto – ARA0097 (Aula 11): Gerência de Configuração e Git
+## Objetivo
+Nosso grupo têm por objetivo aplicar nossos conhecimentos
+em git pra poder melhorar o versionamento de um projeto futuro. E
+conhecer o GitHub
+
+## Integrantes
+- Felipe Rodrigues (202402353438)
+- Nome Completo (Matrícula)
+- Nome Completo (Matrícula)
+
+
+## Como executar
+
+1. Pré-requisitos
+
+2. Passos
+
+3. Comandos úteis
+
